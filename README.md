@@ -1,17 +1,41 @@
-# aquabit
+# AquaBit
 
-A new Flutter project.
+AquaBit, kullanıcıların günlük su tüketimini takip etmelerine ve düzenli su içme alışkanlığı kazanmalarına yardımcı olmak amacıyla geliştirilen bir mobil uygulamadır.
 
-## Getting Started
+## Proje Amacı
 
-This project is a starting point for a Flutter application.
+Bu uygulama, kullanıcıların günlük su hedeflerini görüntülemelerini, su tüketimlerini kolayca kaydetmelerini ve haftalık ilerlemelerini takip etmelerini amaçlamaktadır.
 
-A few resources to get you started if this is your first Flutter project:
+## Kullanılan Teknolojiler
 
-- [Learn Flutter](https://docs.flutter.dev/get-started/learn-flutter)
-- [Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Flutter learning resources](https://docs.flutter.dev/reference/learning-resources)
+- Flutter
+- Dart
+- Provider
+- Hive
+- fl_chart
+- flutter_local_notifications
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Temel Özellikler
+
+- Kullanıcı bilgi giriş akışı
+- Günlük su hedefi oluşturma
+- Hızlı su ekleme
+- Özel miktar su ekleme
+- Günlük su tüketimi takibi
+- Haftalık istatistik grafiği
+- Su içme ipuçları
+- Hatırlatıcı ayarları
+- Kullanıcı ayarlarını güncelleme
+
+## Uygulama Ekranları
+
+- Kullanıcı Bilgi Giriş Ekranı
+- Ana Sayfa
+- İstatistik
+- İpuçları
+- Hatırlatıcı
+- Ayarlar
+
+## Geliştirme Durumu
+
+Uygulamanın temel ekranları ve ana işlevleri tamamlanmıştır. Proje, Meslek Projesi dersi kapsamında geliştirilmekte olup GitHub ve LinkedIn üzerinden geliştirme süreci dokümante edilmektedir.
