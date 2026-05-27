@@ -39,3 +39,9 @@ Bu uygulama, kullanıcıların günlük su hedeflerini görüntülemelerini, su 
 ## Geliştirme Durumu
 
 Uygulamanın temel ekranları ve ana işlevleri tamamlanmıştır. Proje, Meslek Projesi dersi kapsamında geliştirilmekte olup GitHub ve LinkedIn üzerinden geliştirme süreci dokümante edilmektedir.
+## Son Güncellemeler
+
+- Haftalık istatistik ekranı geliştirildi
+- Hatırlatıcı sistemi düzenlendi
+- Bildirim yapısı iyileştirildi
+- Kullanıcı deneyimi optimize edildi
