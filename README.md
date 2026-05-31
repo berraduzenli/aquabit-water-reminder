@@ -45,3 +45,17 @@ Uygulamanın temel ekranları ve ana işlevleri tamamlanmıştır. Proje, Meslek
 - Hatırlatıcı sistemi düzenlendi
 - Bildirim yapısı iyileştirildi
 - Kullanıcı deneyimi optimize edildi
+
+## Project Status
+
+AquaBit project has been completed as part of the Vocational Project course.
+
+Current version includes:
+
+- User onboarding
+- Daily water tracking
+- Custom water entry
+- Weekly statistics
+- Reminder system
+- Tips screen
+- Settings management
